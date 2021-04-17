@@ -1,0 +1,12 @@
+{
+  "name": "gatsby-plugin-remark-footnotes",
+  "version": "0.0.0",
+  "description": "`remark-footnotes` plugin for `gatsby-transformer-remark`",
+  "main": "index.js",
+  "repository": "https://github.com/wktk/gatsby-plugin-remark-footnotes",
+  "author": "k.wakitani <k.wakitani@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "remark-footnotes": "^3.0.0"
+  }
+}
